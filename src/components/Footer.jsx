@@ -24,7 +24,7 @@ const Footer = () => {
         </ul>
       </div>
 
-      <div className="social-icons">
+      <div className="social_icons">
         <a href="https://www.instagram.com/Aomezzz_0_o" target="_blank" rel="noopener noreferrer">
           <i className="uil uil-instagram-alt"></i>
         </a>
